@@ -1,4 +1,4 @@
-defmodule LakeData.WaterLevel do
+defmodule LakeData do
 	@moduledoc """
 	Functions that relate to the water level at Lake Sara.
 	"""
